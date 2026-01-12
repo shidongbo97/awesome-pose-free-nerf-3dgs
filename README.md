@@ -25,9 +25,9 @@ Pull requests are welcome!
     - [Motion Images](#motion-images-1)
     - [Sparse View](#sparse-view-1)
     - [Medical Surgery](#medical-surgery)
-- Benchmarks & Datasets
+- [Datasets](#datasets)
 - Tools & Supporting Techniques
-- Surveys
+- [Surveys](#survey)
 - Contributing
 
 ---
@@ -250,5 +250,29 @@ Pull requests are welcome!
 - Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction [![github](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/MrinalTyagi/Free-SurGS-benchmark.git)
 
 - Free-DyGS: Camera-Pose-Free Scene Reconstruction based on Gaussian Splatting for Dynamic Surgical Videos
+
+---
+
+## Datasets
+
+- [NeRF Synthetic](https://drive.google.com/drive/folders/1cK3UDIJqKAAm7zyrxRYVFJ0BRMgrwhh4)
+
+- [LLFF](https://bmild.github.io/llff/)
+
+- [DTU](https://roboimagedata.compute.dtu.dk/?page_id=36)
+
+- [Replica](https://github.com/facebookresearch/Replica-Dataset)
+
+- [Tanks and Temples](https://www.tanksandtemples.org/)
+
+- [RealEstate10K](https://google.github.io/realestate10k/)
+
+- [CO3D V2](https://github.com/facebookresearch/co3d)
+
+- [Static Hikes](https://github.com/facebookresearch/localrf?tab=readme-ov-file)
+
+---
+
+## Survey
 
 ---
