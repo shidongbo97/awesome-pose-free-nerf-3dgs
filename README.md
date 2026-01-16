@@ -1,7 +1,7 @@
 # Awesome Pose-Free NeRF & 3D Gaussian Splatting
 
 A curated list of **pose-free NeRF** and **pose-free 3DGS** papers, datasets, and tools.  
-This list is constructed based on the survey *Pose-Free NeRF and 3DGS* (2026).  
+This list is constructed based on the survey *A Survey on Pose-Free Neural Radiance Fields and 3D Gaussian Splatting* (2026).  
 Pull requests are welcome!
 
 ---
@@ -40,7 +40,7 @@ Pull requests are welcome!
 ## Pose-Free NeRF
 
 ### Base Model Enhancement
-- GNeRF: GAN-based Neural Radiance Field without Posed Camera [![github](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/quan-meng/gnerf)
+- GNeRF: GAN-based Neural Radiance Field without Posed Camera [![github](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/quan-meng/gnerf)[![paper](https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader)](https://arxiv.org/abs/2103.15606)
 
 - SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction [![github](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/yitongx/sinerf)
 
